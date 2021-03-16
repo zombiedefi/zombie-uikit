@@ -20,7 +20,7 @@ const style = {
 const Heading = styled(Text).attrs({ bold: true })<HeadingProps>`
   ${({ size }) => style[size || sizes.MD]}
   font-weight:900;
-  font-family: Nunito Black;
+  font-family: Lucida Console;
   font-size: 18px;
   line-height: 1.44;
   color: #000000;
