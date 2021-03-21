@@ -36,7 +36,7 @@ const UserBlock: React.FC<Props> = ({ account, login, logout }) => {
             fontSize: "14px",
             fontWeight: "bold",
             letterSpacing: "1.31px",
-            color: "#4075bb",
+            color: "#932C2C",
           }}
         >
           Connect
